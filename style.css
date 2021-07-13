@@ -1,0 +1,31 @@
+body{
+ background: blue;
+ font-family: 'Encode Sans SC', sans-serif;
+}
+header{
+color: white;
+text-align: center;
+}
+section{
+    background: white;
+    border-radius: 1rem;
+    padding: 2rem;
+    width: 50%;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(141, 112, 112);
+    
+}
+div{
+    text-align: center;
+}
+#msg{
+    margin-bottom: 1rem;
+    font-weight: bold;
+    
+}
+
+footer{
+    text-align: center;
+    margin-top: 2rem;
+    color: white;
+}
